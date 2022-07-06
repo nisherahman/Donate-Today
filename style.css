@@ -164,6 +164,7 @@ input placeholder {
     font-size: 16px;
     font-weight: 500;
     transition: all linear 0.4s;
+    margin-left: -125px;
 }
 
 .donate-button:hover {
